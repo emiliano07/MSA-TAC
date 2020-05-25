@@ -2,7 +2,7 @@ import numpy as np
 import operator
 from random import randint
 import copy as c
-import Grasp.needlemanWunsch as nw
+import needlemanWunsch as nw
 #-------------------------------------------------------------------------------------------------
 
 def greedy(secuencias):

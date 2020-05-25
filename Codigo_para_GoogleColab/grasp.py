@@ -1,6 +1,6 @@
 import copy as c
-import Grasp.greedy as gdy
-import Grasp.busquedaLocal as blo
+import greedy as gdy
+import busquedaLocal as blo
 #-------------------------------------------------------------------------------------------------
 
 def grasp(limiteIteracion, secuencias):
